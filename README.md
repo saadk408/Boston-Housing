@@ -1,6 +1,6 @@
 # Boston-Housing
 
-Predict selling price of new Boston home using Supervised learning model on historical Boston housing data
+Predict selling price of new Boston home using Supervised learning, Decision Tree Regressor model on historical Boston housing data
 
 ## Getting Started
 
